@@ -18,13 +18,6 @@ Furthermore,  everyone who contributes to the fundraising will receive an NFT aw
 <b>Frontend repository URL: https://github.com/Meta-Web3-Builders/Stable-Bank-Frontend
 
 ### Contract Addresses
-<b>Stable Bank DAO Contract Address</b>: https://mumbai.polygonscan.com/address/0xAAaA5FD177FaD34115433B68dc79e66183516e5E  </br>
-<b>CrowdFunding Factory Contract Address</b>: https://mumbai.polygonscan.com/address/0xcBb31e17708ED5c054579f35DF17b5BC60D4fBb0 </br>
-<b>sUSDC Contract Address</b>: 
-https://mumbai.polygonscan.com/address/0x2B793942fC423EC0Ee9c57E5D1d20B1E4047753D </br>
-<b>Stable DAO token Contract Address</b>: https://mumbai.polygonscan.com/address/0x5320fb13a8ad206bd1AAFE7c65b0426aB75A8336  </br>
-<b>Stable Bank DAO FundMe NFT Contract Address</b>: https://mumbai.polygonscan.com/address/0x5641834D9B8FD03adef287E63B6EAC08e9bf7743  </br>
-<b>Minting Token Contract</b>: 
-https://mumbai.polygonscan.com/address/0x7309d5a47D8E1654FCE260C11b1E2A0B68646798 </br>
+
 
 ### Hosted Project Link: https://stable-bank-dao.netlify.app/
